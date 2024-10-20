@@ -51,4 +51,4 @@ In summary:
 Transformer models (particularly with multi-feature inputs) demonstrated the best overall performance, significantly outperforming ARIMA and LSTM models. \n
 Incorporating sentiment analysis in the LSTM model did not result in significant performance improvements, potentially due to the use of older data. \n
 The GPT-3 model showed promising predictive capabilities, maintaining high performance even when tested on recent stock data.
-```bash
+```
